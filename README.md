@@ -1,2 +1,2 @@
 # terraform-aws-rds-cluster-parameter-group
-terraform 12 module
+See [terraform-aws-rds-cluster](https://github.com/pgreene/terraform-aws-rds-cluster/blob/master/README.md) for usage
